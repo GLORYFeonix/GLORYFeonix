@@ -1,7 +1,6 @@
 ## Hello GitHub Fans 👋
 [![QQ/WeChat](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
 [![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-
 [![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:gzy810@gmail.com)
 ---
 
@@ -26,12 +25,17 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
+
 - [Python_Learning_Homework](https://github.com/GLORYFeonix/Python_Learning_Homework)
 
 ### 关于我
 
 - [个人博客](https://GLORYFeonix.github.io/)
 - [CSDN](https://blog.csdn.net/u013748897?spm=1010.2135.3001.5343)
+
+### My GitHub Contributions
+
+![Contribution Snake](https://raw.githubusercontent.com/GLORYFeonix/GLORYFeonix/main/assets/github-contribution-grid-snake.svg)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
