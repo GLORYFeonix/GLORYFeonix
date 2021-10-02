@@ -1,5 +1,5 @@
 ## Hello GitHub Fans 👋
-[![QQ](https://img.shields.io/badge/QQ-836520090-blue)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=836520090&website=www.oicqzone.com "腾讯")
+[![QQ](https://img.shields.io/badge/QQ-836520090-blue)](https://www.bilibili.com/ "腾讯")
 [![WeChat](https://img.shields.io/badge/WeChat-guozeyunm8810-brightgreen)](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
 [![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:gzy810@gmail.com)
 ---
