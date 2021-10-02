@@ -35,7 +35,7 @@
 
 ### My GitHub Contributions
 
-![Contribution Snake](https://github.com/GLORYFeonix/GLORYFeonix/blob/main/assets/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/GLORYFeonix/GLORYFeonix/main/assets/github-contribution-grid-snake.svg)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
