@@ -7,7 +7,7 @@
 
 ### I'm GLROYFeonix
 
-- A Computer lover. & Open Source enthusiast.
+- ❤️ A Computer lover. & Open Source enthusiast.
 - 🌱 Currently studying in Beijing, China.
 - 💬 Ask me about Java, C++ and my projects on [gzy8810@gmail.com](mailto:gzy8810@gmail.com)
 - ⭐ You may like my [Python_Learning_Homework](https://github.com/GLORYFeonix/Python_Learning_Homework)
@@ -24,11 +24,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 开源项目
+### 开源项目 | Open Source Project
 
 - [Python_Learning_Homework](https://github.com/GLORYFeonix/Python_Learning_Homework)
 
-### 关于我
+### 关于我 | About Me
 
 - [个人博客](https://GLORYFeonix.github.io/)
 - [CSDN](https://blog.csdn.net/u013748897?spm=1010.2135.3001.5343)
